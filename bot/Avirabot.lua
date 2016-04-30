@@ -259,13 +259,13 @@ function create_config( )
     "webshot",
     "voice",
     },
-    sudo_users = {105831687},--Sudo users
+    sudo_users = {206480168,196314022},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[ ]],
     help_text = [[ ]],
 	help_text_super =[[
-Fire Bot SuperGroup Commands:
+killer Bot SuperGroup Commands:
 
 !owner
 دریافت آیدی مدیر اصلی گروه
