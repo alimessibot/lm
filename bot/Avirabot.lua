@@ -258,6 +258,7 @@ function create_config( )
     "welcome",
     "webshot",
     "voice",
+    "nerkh",
     },
     sudo_users = {206480168,196314022},--Sudo users
     moderation = {data = 'data/moderation.json'},
