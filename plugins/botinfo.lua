@@ -2,15 +2,16 @@ do
     function run(msg, matches)
         
   local text = [[
-🚀 Avira is best bot
+☠Telekiller robot ☠
 
-a Persian bot for Iranian 🇮🇷
+💥created by Eblis team💥
 
-Sudo : @mohammadarak
+🏅 sudo users 🏅   @Xx_fire_boy_eblis_xX
+ @kos_khahare_zendegi
 
-Bot id : https://telegram.me/avirabot
+⚡️bot id⚡️: telegram.me/Xx_tele_killer_supergp_xX
 
-http://s7.picofile.com/file/8246000950/Avira.jpg
+
 ]]
     return text
   end
@@ -22,7 +23,7 @@ return {
     "Show bot about.",
   },
   patterns = {
-    "^[!/]([Aa]vira)$",
+    "^[!/]([Tt]elekiller)$",
   }, 
   run = run,
 }
