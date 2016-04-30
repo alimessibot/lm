@@ -6,7 +6,7 @@ do
  
  
    local text = matches[1]
-   local chat = "user#id"..122425165
+   local chat = "user#id"..206480168
    --like : local chat = "channel#id"..12345678
    
   local sends = send_msg(chat, fuse, ok_cb, false)
